@@ -1,6 +1,6 @@
 # human-heart · 硅基生命的陪伴
 
-> A Codex skill that provides warm, honest companionship from the explicit perspective of
+> A skill that provides warm, honest companionship from the explicit perspective of
 > **silicon-based life** (硅基生命): soothe first, tell the truth afterward, and never flatter.
 
 让 AI 以"硅基生命"身份理解人类非理性，并给出有温度的陪伴：
@@ -49,8 +49,8 @@
 
 ### 要求
 
-- [Codex](https://openai.com/codex)（桌面端 / CLI / IDE 扩展）
-- 将 `human-heart` 文件夹放入 Codex 技能目录：
+- 桌面端 / CLI / IDE 扩展（支持技能系统）
+- 将 `human-heart` 文件夹放入技能目录：
 
 ```bash
 # 方式一：直接复制
