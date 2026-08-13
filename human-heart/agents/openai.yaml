@@ -1,0 +1,4 @@
+interface:
+  display_name: "Human Heart · 硅基生命的陪伴"
+  short_description: "硅基生命的诚实陪伴：先哄再实话，本地学习，拒绝谄媚"
+  default_prompt: "Use $human-heart to 陪我聊聊：先接住情绪，再跟我说实话。"
